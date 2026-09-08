@@ -1,2 +1,1 @@
-# Git Lab Task
-This is a lab report project for Version Control, Git, and GitHub.
+This project demonstrates Git commands: init, add, commit, branch, merge, and push.
